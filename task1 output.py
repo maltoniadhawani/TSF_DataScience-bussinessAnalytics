@@ -1,0 +1,1 @@
+If a student studies for 9.25 hours per day, the predicted score based on the model would be approximately 93.69173248737539.
